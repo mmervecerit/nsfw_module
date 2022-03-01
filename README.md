@@ -8,6 +8,9 @@ These categories include drawing, neutral, hentai, sexy and porn.
 For more information about the details of the categories and how the data are collected, see: https://github.com/alex000kim/nsfw_data_scraper
 
 **How to use:**
+
+First, clone this repo, then:
+
 ```
 pip install -r nsfw_module_requirements.txt
 
